@@ -20,3 +20,8 @@ figcaption {
   text-align: center;
   padding: 0px;
 }
+
+figure {
+  padding: 2px;
+  margin: auto;
+}
