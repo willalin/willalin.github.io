@@ -2,7 +2,12 @@
 title: "Welcome!"
 ---
 
-![](me.jpeg){width="30%"}
+<img src="images/me.jpeg" class="leftimg">
+\
+\
+\
+\
+\
 
 I am an Economics Ph.D. student at the University of Chicago interested in labor and macroeconomics.
 
