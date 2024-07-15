@@ -5,7 +5,7 @@ img, .leftimg {
   padding: 0px;
 }
 
-p, ul {
+p {
   font-size: 17px;
 }
 
@@ -25,4 +25,8 @@ figcaption {
 figure {
   padding: 2px;
   margin: 0 auto;
+}
+
+ul li{
+ font-size: 17px;
 }
