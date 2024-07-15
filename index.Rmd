@@ -2,7 +2,9 @@
 title: "Welcome!"
 ---
 
-I am a Ph.D. student in the Department of Economics at the University of Chicago interested in labor and macroeconomics.
+![](me.jpeg){width="30%"}
+
+I am an Economics Ph.D. student at the University of Chicago interested in labor and macroeconomics.
 
 My CV is available <a href="CV.pdf" target="_blank"> here</a>.
 
