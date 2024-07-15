@@ -2,7 +2,7 @@ img, .leftimg {
   width: 300px;
   display: block;
   margin: 0 auto;
-  padding: 10px;
+  padding: 0px;
 }
 
 p {
@@ -13,4 +13,10 @@ p {
   float: left;
   padding: 0px;
   padding-right: 20px;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  padding: 0px;
 }

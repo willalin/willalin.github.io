@@ -8,6 +8,17 @@ Previously, I worked as a Senior Analyst at Cornerstone Research in New York Cit
 
 In my free time, I enjoy <a href="https://www.rockefeller.uchicago.edu/carillon-recitals-and-tower-tours/" target="_blank"> playing the carillon at Rockefeller Memorial Chapel</a>, exploring Chicago's dining scene, and taking photos of sunsets.
 
-
-
-![](images/sunset1.jpeg){width="30%"} ![](images/sunset2.jpeg){width="30%"} ![](images/sunset3.jpeg){width="30%"}
+<figure>
+<img src="images/sunset1.jpeg"/>
+<figcaption>View from my Cornerstone desk, Jan 2020.</figcaption>
+</figure>
+\
+<figure>
+<img src="images/sunset2.jpeg"/>
+<figcaption>Nantucket sunset, Aug 2022.</figcaption>
+</figure>
+\
+<figure>
+<img src="images/sunset3.jpeg"/>
+<figcaption>Standing atop the carillon tower, Feb 2024.</figcaption>
+</figure>
