@@ -5,5 +5,11 @@ title: "Teaching"
 ### University of Chicago
 
 <ul style="list-style-type:disc;">
-<li>Winter 2024: TA for Master's **Introduction to Advanced Macroeconomic Analysis** (Instructor: Andre Silva)</li>
+<li>Winter 2025: TA for Master's **Introduction to Advanced Macroeconomic Analysis** (Professor: Andre Silva)</li>
+<li>Winter 2024: TA for Master's **Introduction to Advanced Macroeconomic Analysis** (Professor: Andre Silva)</li>
+</ul>
+
+### Booth School of Business, University of Chicago
+<ul style="list-style-type:disc;">
+<li>Fall 2024: TA for EMBA **Statistics** (Professor: Jeffrey Russell)</li>
 </ul>
