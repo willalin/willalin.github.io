@@ -9,7 +9,7 @@ title: "Welcome!"
 \
 \
 
-I am a third-year Economics Ph.D. student at the University of Chicago interested in labor and macroeconomics.
+I am a fourth-year Economics Ph.D. student at the University of Chicago interested in labor and macroeconomics.
 
 My CV is available <a href="CV.pdf" target="_blank"> here</a>.
 

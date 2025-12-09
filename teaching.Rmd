@@ -8,6 +8,8 @@ title: "Teaching"
 
 <ul style="list-style-type:disc;">
 
+<li>Spring 2025: TA for Undergraduate **Econometrics** (Professor: Eric Richert)</li>
+
 <li>Winter 2025: TA for Master's **Introduction to Advanced Macroeconomic Analysis** (Professor: Andre Silva)</li>
 
 <li>Winter 2024: TA for Master's **Introduction to Advanced Macroeconomic Analysis** (Professor: Andre Silva)</li>

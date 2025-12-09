@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-I am currently a third-year Ph.D. student in the Kenneth C. Griffin Department of Economics at the University of Chicago. My main fields of interest are labor and macroeconomics.
+I am currently a fourth-year Ph.D. student in the Kenneth C. Griffin Department of Economics at the University of Chicago. My main fields are labor and applied macroeconomics.
 
 Prior to my doctoral studies, I worked at <a href="https://www.cornerstone.com" target="_blank"> Cornerstone Research</a>. I completed my undergraduate degree at the University of Chicago with a double major in economics and mathematics.
 
