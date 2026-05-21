@@ -9,7 +9,7 @@ title: "Welcome!"
 \
 \
 
-I am a fourth-year Economics Ph.D. student at the University of Chicago interested in labor and macroeconomics.
+I am a fourth-year Ph.D. student in the <a href="https://economics.uchicago.edu" target="_blank"> Kenneth C. Griffin Department of Economics</a> at the University of Chicago. My research interests are in labor economics and applied macroeconomics.
 
 My CV is available <a href="CV.pdf" target="_blank"> here</a>.
 

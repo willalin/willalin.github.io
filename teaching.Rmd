@@ -18,7 +18,7 @@ title: "Teaching"
 
 <ul style="list-style-type:disc;">
 
-<li>Spring 2025 </li>
+<li>Spring 2025, Spring 2026 </li>
 
 </ul>
 
