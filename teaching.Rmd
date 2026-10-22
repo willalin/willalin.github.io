@@ -1,5 +1,9 @@
 ---
 title: "Teaching"
+output:
+  html_document:
+    includes:
+      in_header: noindex.html
 ---
 
 <br>

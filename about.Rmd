@@ -1,8 +1,12 @@
 ---
 title: "About Me"
+output:
+  html_document:
+    includes:
+      in_header: noindex.html
 ---
 
-I am currently a fourth-year Ph.D. student in the <a href="https://economics.uchicago.edu" target="_blank"> Kenneth C. Griffin Department of Economics</a> at the University of Chicago. My research interests are in labor economics and applied macroeconomics.
+I am currently a fifth-year Ph.D. student in the <a href="https://economics.uchicago.edu" target="_blank"> Kenneth C. Griffin Department of Economics</a> at the University of Chicago. My research interests are in labor economics and applied macroeconomics.
 
 Prior to my doctoral studies, I worked at <a href="https://www.cornerstone.com" target="_blank"> Cornerstone Research</a>. I completed my undergraduate degree at the University of Chicago with a double major in economics and mathematics.
 
