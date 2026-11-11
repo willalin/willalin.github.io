@@ -1,9 +1,17 @@
 ---
-title: "Research"
+title: ""
 output:
   html_document:
     includes:
       in_header: noindex.html
 ---
 
-In progress!
+<br>
+
+### Works in Progress
+
+**How is Labor Demand Changing as AI Improves? New Global Evidence** <br>
+(with <a href="https://sites.google.com/site/sakaiando/" target="_blank"> Sakai Ando</a>, <a href="https://sites.google.com/site/divyakirti/" target="_blank"> Divya Kirti</a>, and Assyifa Szami Ilman) <br>
+*Submitted*
+
+**The Role of Remote Work in Reducing Geographic Constraints in Marriage Markets**

@@ -1,10 +1,11 @@
 ---
-title: "About Me"
+title: ""
 output:
   html_document:
     includes:
       in_header: noindex.html
 ---
+<br> 
 
 I am currently a fifth-year Ph.D. student in the <a href="https://economics.uchicago.edu" target="_blank"> Kenneth C. Griffin Department of Economics</a> at the University of Chicago. My research interests are in labor economics and applied macroeconomics.
 
@@ -12,17 +13,23 @@ Prior to my doctoral studies, I worked at <a href="https://www.cornerstone.com" 
 
 In my free time, I enjoy performing as a <a href="https://www.rockefeller.uchicago.edu/carillon-recitals-and-tower-tours/" target="_blank"> student Carillonist at Rockefeller Memorial Chapel</a>, exploring Chicago's dining scene, and taking photos of sunsets.
 
-<figure>
-<img src="images/sunset1.jpeg"/>
+<br>
+
+<div style="display:flex; gap:1em; justify-content:space-between; align-items:flex-start;">
+
+<figure style="flex:1; margin:0;">
+<img src="images/sunset1.jpeg" style="width:100%;"/>
 <figcaption>View from my Cornerstone desk, Jan 2020.</figcaption>
 </figure>
-\
-<figure>
-<img src="images/sunset2.jpeg"/>
+
+<figure style="flex:1; margin:0;">
+<img src="images/sunset2.jpeg" style="width:100%;"/>
 <figcaption>Nantucket sunset, Aug 2022.</figcaption>
 </figure>
-\
-<figure>
-<img src="images/sunset3.jpeg"/>
+
+<figure style="flex:1; margin:0;">
+<img src="images/sunset3.jpeg" style="width:100%;"/>
 <figcaption>Standing atop the carillon tower, Feb 2024.</figcaption>
 </figure>
+
+</div>
